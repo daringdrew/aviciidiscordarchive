@@ -1,5 +1,5 @@
 # aviciidiscordarchive
-Archive of the original Avicii Discord server
+Archive of the original Avicii Discord Server
 
 
 <!DOCTYPE html>
